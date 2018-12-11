@@ -10,7 +10,7 @@
 
 ## What kinds of contributions are we looking and hoping for
 
-> Fixing typo's, updating documentation, submitting issues and bugs, ideas for new quickstarts, demos, scripts, templates, etc.  Any kind of contribution, no matter how small you might think it is, is welcomed and appreciated.
+> Fixing typos, updating documentation, submitting issues and bugs, ideas for new quickstarts, demos, scripts, templates, etc.  Any kind of contribution, no matter how small you might think it is, is welcomed and appreciated.
 
 ## What are we not looking for
 
